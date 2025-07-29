@@ -21,9 +21,9 @@
 
 > ※以下のような差分を表示します（例）
 
-追加: Mark=D1001
-削除: Mark=D1050
-変更: Mark=D1020 [Width] 500 → 600
+・追加: Mark=D1001
+・削除: Mark=D1050
+・変更: Mark=D1020 [Width] 500 → 600
 
 
 ---
@@ -35,6 +35,7 @@
 3. 以下のような `.addin` ファイルを作成して読み込む：
 
 ---
+
 <?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="Command">
@@ -46,6 +47,7 @@
     <VendorDescription>KengoTanaka</VendorDescription>
   </AddIn>
 </RevitAddIns>
+
 ---
 
 🔮 将来の構想（TODO）

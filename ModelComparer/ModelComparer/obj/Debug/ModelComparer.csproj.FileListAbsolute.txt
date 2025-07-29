@@ -1,0 +1,6 @@
+C:\test\ModelComparer\ModelComparer\obj\Debug\ModelComparer.csproj.AssemblyReference.cache
+C:\test\ModelComparer\ModelComparer\obj\Debug\ModelComparer.csproj.CoreCompileInputs.cache
+C:\test\ModelComparer\ModelComparer\bin\Debug\ModelComparer.dll
+C:\test\ModelComparer\ModelComparer\bin\Debug\ModelComparer.pdb
+C:\test\ModelComparer\ModelComparer\obj\Debug\ModelComparer.dll
+C:\test\ModelComparer\ModelComparer\obj\Debug\ModelComparer.pdb

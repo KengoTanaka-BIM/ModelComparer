@@ -32,15 +32,19 @@ Revit上で新旧モデルを比較し、ダクト要素の差分（追加・削
 2. `ModelComparer.dll` を Revitの Addins フォルダに配置  
 3. 以下のような `.addin` ファイルを作成して読み込む：
 
-```xml
-<AddIn Type="Command">
-  <Name>ModelComparer</Name>
-  <Assembly>C:\パス\to\ModelComparer.dll</Assembly>
-  <AddInId>15D9BE97-2568-4392-9462-0C84F7A4D4A7</AddInId>
-  <FullClassName>ModelComparer.Command</FullClassName>
-  <VendorId>KengoTanaka</VendorId>
-  <VendorDescription>KengoTanaka</VendorDescription>
-</AddIn>
+---
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>ModelComparer</Name>
+    <Assembly>C:\test\ModelComparer\ModelComparer\bin\Debug\ModelComparer.dll</Assembly>
+    <AddInId>15D9BE97-2568-4392-9462-0C84F7A4D4A7</AddInId>
+    <FullClassName>ModelComparer.Command</FullClassName>
+    <VendorId>KengoTanaka</VendorId>
+    <VendorDescription>KengoTanaka</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+---
 
 🔮 将来の構想（TODO）
  ・ファイル選択ダイアログ対応（旧モデル選択をGUI化

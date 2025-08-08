@@ -70,9 +70,10 @@
 👤 作者
 
 Kengo Tanaka
- 元BIMオペ → DX志望。Revitアドイン開発を独学で継続中。
+ BIMエンジニア。Revitアドイン開発を独学で習得。
 
- 現在、転職を目指してポートフォリオ公開中。
+ Qiitaにて技術記事公開。
+ https://qiita.com/KengoTanaka-BIM/items/4678d144b4deba564bfc
 
 ---
 
@@ -80,7 +81,7 @@ Kengo Tanaka
 
 ライセンス：MIT（※自由に使ってOK）
 
-質問・コラボ・採用相談は Issues または GitHub Profile からどうぞ
+質問・案件相談は Issues または GitHub Profile からどうぞ
 
 ---
 

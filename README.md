@@ -70,6 +70,7 @@
 👤 作者
 
 Kengo Tanaka
+
  BIMエンジニア。Revitアドイン開発を独学で習得。
 
  Qiitaにて技術記事公開。

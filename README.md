@@ -69,7 +69,7 @@
 
  作者
 
-Kengo Tanaka
+田中 健悟
 
  BIMエンジニア。Revitアドイン開発を独学で習得。
 
